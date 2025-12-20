@@ -2,6 +2,7 @@ from utils import multiplier
 
 
 # New comment
+# Next comment
 
 def get_42():
     result = multiplier()
