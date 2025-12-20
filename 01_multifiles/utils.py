@@ -3,7 +3,7 @@ def get_first_number():
 
 
 def get_second_number():
-    return 6
+    return 7
 
 
 def multiplier():
